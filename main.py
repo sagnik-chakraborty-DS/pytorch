@@ -15,22 +15,3 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-
-"""
-echo "# pytorch" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/sagnik-chakraborty-DS/pytorch.git
-git push -u origin main
-"""
-
-
-"""
-
-git remote add origin https://github.com/sagnik-chakraborty-DS/pytorch.git
-git branch -M main
-git push -u origin main
-"""
-
